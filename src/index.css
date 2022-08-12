@@ -1,0 +1,9 @@
+.class-wrapper{
+    display: flex;
+    justify-content: space-around;
+    padding:50px
+}
+
+.routing-elements{
+    width: 60%;
+}
